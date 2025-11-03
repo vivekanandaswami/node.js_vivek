@@ -9,6 +9,7 @@ console( 3
 console.log("hello world") 
 
 // different data types in javascript //
+// 7 types of data types in javascript //
 // primitive data types// => string, number, boolean, undefined, null, bigint, symbol//
            
 // //let name = "vivek" // string datatype//
@@ -20,7 +21,7 @@ console.log("hello world")
 // let symbolValue = Symbol("uniqueIdentifier") // symbol datatype//
 
 
-// non-primitive data types// => object, array, function//
+// (Reference)or non-primitive data types// => object, array, function//
 
 // let person = {  // object datatype//
 //     name: "vivek",
