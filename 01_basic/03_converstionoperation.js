@@ -40,12 +40,12 @@ let valueINumber = 3
 let negativeNumber = -valueINumber
 // console.log(negativeNumber);
 
-//console.lof(3+3)//addtion//
-//console.log(2-2)//subtraction//
-//console.log(2*3)//multiplication//
-//console.log(10/2)//division//
-//console.log(10%3)//modulus operator//
-//console.log(2**3)//exponentiation operator 2^3=8//
+// console.lof(3+3)//addtion//
+// console.log(2-2)//subtraction//
+// console.log(2*3)//multiplication//
+// console.log(10/2)//division//
+// console.log(10%3)//modulus operator//
+// console.log(2**3)//exponentiation operator 2^3=8//
 
 // ********************** abstract operation **************************//
 
