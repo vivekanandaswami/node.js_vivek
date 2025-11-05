@@ -76,9 +76,9 @@ let negativeNumber = -valueINumber
 
 let numcount= 33
 numcount++;
-console.log(numcount);
-numcount--;
-console.log(numcount);
+// console.log(numcount);
+// numcount--;
+// console.log(numcount);
 
 
 
